@@ -1,2 +1,2 @@
-# pictomelody-ak2
-My contributions to pictomelody.
+# togetherCodefest
+Putting code together, still encountering some errors with Music.py (invalid keys)
